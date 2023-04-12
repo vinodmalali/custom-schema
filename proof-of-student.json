@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/sujan-shetty71/custom-schema/main/proof-of-student.jsonld",
-        "jsonSchema": "https://raw.githubusercontent.com/sujan-shetty71/custom-schema/main/proof-of-student.json"
+        "jsonLdContext": "https://raw.githubusercontent.com/vinodmalali/custom-schema/main/proof-of-student.jsonld",
+        "jsonSchema": "https://raw.githubusercontent.com/vinodmalali/custom-schema/main/proof-of-student.json"
       }
     },
     "required": [
