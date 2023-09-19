@@ -1,0 +1,25 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "ProofOfStudent": {
+        "@id": "https://raw.githubusercontent.com/vinodmalali/custom-schema/main/proof-of-student.jsonld#ProofOfStudent",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "https://github.com/vinodmalali/custom-schema/main/proof-of-student-vocab.md#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "isStudent": {
+            "@id": "vocab:isStudent",
+            "@type": "xsd:integer"
+          }
+        }
+      }
+    }
+  ]
+}
